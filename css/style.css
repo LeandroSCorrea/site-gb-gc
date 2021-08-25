@@ -1,9 +1,10 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
 body{
-    font-family: Nunito, sans-serif;
     color: #1c1c1c;
 }
 h1, h2, h3{
-    font-family: Asap, sans-serif;
     color: #000;
 }
 .botao{
@@ -24,10 +25,9 @@ nav a{
     text-decoration: none;
     color: #FFF;
     font-size: 32px;
-    font-family: Yellowtail, serif;
 }
 nav a img{
-    width: 100px;
+    width: 70px;
     border-radius: 50%;
 }
 nav ul{
@@ -48,6 +48,10 @@ nav ul li a{
     width: 100%;
     text-decoration: none;
     color: #FFF;
+}
+nav ul li  a:hover {
+    width: auto;
+    border-bottom: 1px solid #FFF;
 }
 header{
     display: flex;
