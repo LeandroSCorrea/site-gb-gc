@@ -2,6 +2,6 @@
 
 Projeto para divulgação da loja Gracie Barra Grande Colorado!
 
-https://graciebarragc.com.br/
+https://graciebarragc.com.br/ --> https://www.linkedin.com/in/leandro-scorrea/ 
 
 Modelo utilizado baseado nas aulas da Hostinger para desenvolver sites.
